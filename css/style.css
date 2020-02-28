@@ -38,8 +38,9 @@ header nav ul li a{
 .back_ground img{
     object-fit: cover;
     width: 100%;
-    height: 80vh;
+    height: 100vh;
 }
+
 .left_ads{
     width: 40%;
     transform: translate(51%,-391%);
@@ -70,6 +71,7 @@ header nav ul li a{
     width: 86%;
     margin: 0 auto;
     height: 350px;
+    text-align: center;
 }
 .form_contaainer h1{
     padding-top: 20px;
