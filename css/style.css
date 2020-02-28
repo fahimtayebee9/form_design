@@ -26,10 +26,10 @@ header nav ul li{
 header nav ul li a{
     text-decoration: none;
     color: white;
-    font-size: 12px;
+    font-size: 14px;
     margin-right: 10px;
     margin-left: 10px;
-    font-weight: bold;
+    font-weight: normal;
 }
 .back_ground{
     overflow: hidden;
@@ -57,14 +57,11 @@ header nav ul li a{
     margin-top: 5px;
     font-size: 14px;
 }
-.left_ads p i{
-    font-family: 'Font Awesome';
-}
 .login_form{
     width: 380px;
     background-color: #6dbd6d;
     border-radius: 5px;
-    transform: translate(288%,-233%);
+    transform: translate(288%,-173%);
     color: white;
 }
 .form_contaainer{
@@ -76,7 +73,7 @@ header nav ul li a{
 .form_contaainer h1{
     padding-top: 50px;
     font-size: 40px;
-    font-weight: lighter;
+    font-weight: normal;
 }
 .form_contaainer p{
     padding-bottom: 30px;
